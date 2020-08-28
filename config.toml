@@ -12,7 +12,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Anna K Coach & Chef Consultant"
+title = "Anna K - Coach & Chef Consultant"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
